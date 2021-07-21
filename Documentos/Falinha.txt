@@ -1,0 +1,13 @@
+Foi levantado um problema em que, quando uma pessoa
+realiza um procedimento pelo SUS, uma cirurgia por exemplo,
+o sistema de saúde paga ao hospital apenas um valor
+estipulado para a cirurgia e pela estadia do paciente, que
+é o tempo médio de permanência no hospital.
+Todo custo além desse valor pré pago é responsabilidade do
+paciente. Parte dos casos de gastos excessivos do paciente,
+é dado pela demora dos médicos no momento de dar alta a
+eles, em que um dos motivos levantados foi o excessivo
+tempo gasto pelos funcionários da saúde em assuntos futeis,
+como o deslocamento por longas áreas para atualizar um
+sistema, perdendo muito tempo de produção.
+Com isso foi desenvolvido o KanBit.
