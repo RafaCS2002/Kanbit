@@ -1,0 +1,18 @@
+create table admin(
+	codigo			int(1)			NOT NULL	auto_increment,
+	nome			varchar(100)		NOT NULL,
+   	senha			char(8)			not null,
+	cargo			varchar(50)		not null,
+	PRIMARY KEY		(codigo)
+)
+create table user(
+	codigo			int(1)			NOT NULL	auto_increment,
+	nome			varchar(100)		NOT NULL,
+	sobrenome		varchar(100)		not null,
+	login			varchar(50)		not null,
+   	senha			char(8)			not null,
+	cpf			char(11)		not null,
+	cargo			varchar(50)		not null,
+	email			varchar(50)		not null,	
+	PRIMARY KEY		(codigo)
+)

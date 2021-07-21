@@ -1,0 +1,18 @@
+(Menu)
+	Home - home.php
+	Paciente Alterar - pacialt.php
+	Paciente Criar - paciadd.php
+	Paciente Excluir - pacidel.php
+	Funcionários Buscar - usersearch.php
+	Funcionários Adicionar - useradd.php
+	Funcionários Alterar - useralt.php
+	Funcionários Excluir - userdel.php
+	Contato - contact.php
+
+(Tela de login)
+	Tela de Login - index.php
+
+(Configurações e PHP's a parte)
+	Configurações do banco de dados - config.php
+	Métodos de login - login.php
+	
